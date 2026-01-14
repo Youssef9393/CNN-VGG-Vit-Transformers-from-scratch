@@ -1,4 +1,4 @@
-# Contrôle Pratique - Image Mining & Deep Learning
+# Image Mining & Deep Learning
 ## ÉTAPE 2 - Prédiction avec Modèles Entraînés
 
 ---
@@ -154,5 +154,6 @@ Les modèles ont été entraînés sur 8 époques avec un split 80/20 (train/val
 - Comparaison d'architectures (CNN vs Transformer)
 - Mise en production de modèles entraînés
 - Application au domaine médical (classification de lésions)
+
 
 ---
